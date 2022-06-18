@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning Machine Learning,Deep Learning, Computer Vision
 
-- 📫 How to reach me: ahmettelceken16@gmail.com
+- 📫 How to reach me: ahmettelceken16@gmail.com and [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmet-telçeken-7b7290147//)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmet-telçeken-7b7290147//)  
 <div>
 
   
