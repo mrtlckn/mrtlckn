@@ -9,8 +9,7 @@
 
 - 📫 How to reach me: ahmettelceken16@gmail.com
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmet-tel%C3%A7eken-7b7290147/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmet-tel%C3%A7eken-7b7290147/#gh-dark-mode-only)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmet-telçeken-7b7290147//)  
 <div>
 
   
