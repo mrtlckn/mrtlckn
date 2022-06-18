@@ -9,7 +9,12 @@
 
 - 📫 How to reach me: ahmettelceken16@gmail.com
 
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmet-tel%C3%A7eken-7b7290147/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmet-tel%C3%A7eken-7b7290147/#gh-dark-mode-only)
+<div>
 
+  
+</div>
 <!--
 **mrtlckn/mrtlckn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
