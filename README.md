@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-<div>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mrtlckn&show_icons=true&theme=dark&locale=en">
-</div>
+
 
 - 🌱 I’m currently learning Machine Learning,Deep Learning, Computer Vision
 
