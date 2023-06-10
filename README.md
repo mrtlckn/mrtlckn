@@ -4,12 +4,11 @@ As a computer engineer, my passion lies in researching and developing deep learn
 
 I am driven by a genuine passion for exploring the boundaries of artificial intelligence and making a meaningful impact through innovative projects. 
  
-- 🌱 Machine Learning,Deep Learning, Computer Vision
+- 🌱 Machine Learning, Deep Learning, Computer Vision
 
 - 📫 How to reach me: ahmettelceken16@gmail.com 
 
-
--   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmet-telçeken-7b7290147//)  
+ 
 
 <div>
 
