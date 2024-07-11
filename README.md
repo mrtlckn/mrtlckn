@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-As a computer engineer, my passion lies in researching and developing deep learning algorithms with a focus on computer vision. I possess a strong background in both theoretical concepts and practical implementations of deep learning.
+As a computer engineer, my passion lies in researching and developing deep learning algorithms with a focus on computer vision. 
 
-I am driven by a genuine passion for exploring the boundaries of artificial intelligence and making a meaningful impact through innovative projects. 
  
 - Deep Learning, AI, Computer Vision
 
